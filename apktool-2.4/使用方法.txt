@@ -1,0 +1,2 @@
+反编译：把apk拉到ApkModify.bat 。
+复原apk：把编译文件 拉到ApkModify.bat 。
